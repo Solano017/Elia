@@ -1,4 +1,3 @@
-def main():
 def pedir_float(mensaje, *, min_value=0.0):
     while True:
         try:
