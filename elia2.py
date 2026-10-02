@@ -34,7 +34,7 @@ def resolver_sistema_1_bloque():
         F_neta = 0.0
         a = 0.0
         se_mueve = False
-
+#aaa
     resultado = {
         "N": N,
         "f_max": f_max,
